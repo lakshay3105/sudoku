@@ -1,0 +1,2 @@
+# sudoku
+using C language
